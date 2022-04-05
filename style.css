@@ -101,7 +101,7 @@ button:active{
 
 /* Media Query */
 
-@media screen and(max-width:1000px){
+@media screen and (max-width:1000px){
   .quote-container{
     margin:auto 10px;
   }
